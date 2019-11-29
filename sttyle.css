@@ -1,0 +1,36 @@
+p {
+    color: green;
+}
+
+.first{
+    color: red;
+    font-size: 10px;
+}
+
+.second{
+    color: blue;
+    font-size: 15px;
+}
+
+
+.third{
+    color: yellow;
+    font-size: 20px;
+    
+}
+
+
+
+
+
+
+
+.block p{
+    color: blue;
+    font-style: italic;
+    font-size: 40px;
+}
+span{
+    color: green;
+    font-size: 60px;
+}
